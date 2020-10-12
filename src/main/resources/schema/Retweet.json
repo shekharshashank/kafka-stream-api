@@ -1,0 +1,11 @@
+{
+  "type": "object",
+  "javaType": "types.Retweet",
+  "properties": {
+    "text": {"type": "string"},
+    "user_id": {"type": "string"},
+    "followers_count": {"type": "integer"},
+    "screen_name": {"type": "string"}
+
+  }
+}
